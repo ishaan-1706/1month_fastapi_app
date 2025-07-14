@@ -1,0 +1,3 @@
+[pytest]
+testpaths = fastapi_postgres_app/tests
+python_files = test_*.py
